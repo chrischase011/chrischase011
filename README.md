@@ -1,5 +1,8 @@
 ### Hi there 👋, I'm Christopher Robin.
 
+![chrischase011 GitHub stats](https://github-readme-stats.vercel.app/api?username=chrischase011&theme=highcontrast&show_icons=true)
+
+
 <!--
 **chrischase011/chrischase011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
