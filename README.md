@@ -15,7 +15,7 @@
 ### Tech Stack
 
 <div align="left">
-  <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -41,10 +41,10 @@
 ### Socials
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://facebook.com/BloodStrike0711"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  /></a>
+  <a href="https://www.instagram.com/chrischase011/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="mailto:christopherchase011@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://ph.linkedin.com/in/christopher-robin-chase-34b97a1b2"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
