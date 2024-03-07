@@ -14,7 +14,7 @@
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
-###
+### Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
-###
+### Socials
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
