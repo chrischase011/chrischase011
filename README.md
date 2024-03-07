@@ -1,6 +1,4 @@
 <h2 align="center">Hi 👋! My name is <strong>Christopher Robin Chase</strong>
-  
-  I'm a Software Engineer, from Makati City
 </h2>
 
 ###
