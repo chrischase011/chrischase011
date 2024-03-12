@@ -10,6 +10,10 @@
 
 ###
 
+![Metrics](https://raw.githubusercontent.com/chrischase011/chrischase011/main/github-metrics.svg)
+
+
+
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 
 ### Tech Stack
