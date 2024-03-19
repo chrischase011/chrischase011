@@ -38,6 +38,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg" height="30" alt="php logo"  />
 </div>
 
+
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=chrischase011&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Socials
 
 <div align="left">
