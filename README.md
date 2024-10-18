@@ -11,6 +11,10 @@
 ###
 
 <!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/chrischase011/count.svg?"  />
+</div>
+
 
 ### Tech Stack
 
